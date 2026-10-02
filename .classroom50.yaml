@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "9b-computer-science-2026-2029"
+assignment: "intro-to-sequence"
+owner:
+  username: "h-arnold"
+  id: 78823477
+  accepted_at: "2026-10-02T08:17:18Z"
+source:
+  owner: "Bassaleg-School"
+  owner_id: 202148716
+  repo: "sequences-ex-002-004"
+  branch: "main"
